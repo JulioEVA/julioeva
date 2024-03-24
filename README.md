@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D5616AQEr8emPwWzAfA/profile-displaybackgroundimage-shrink_350_1400/0/1705438126400?e=1710979200&v=beta&t=EPlDqKisEVtqzDsdUfVit3bltTgkUHj_ylbPDNZ8DGo)
+![](https://media.licdn.com/dms/image/D5616AQEr8emPwWzAfA/profile-displaybackgroundimage-shrink_350_1400/0/1705438126400?e=1717027200&v=beta&t=JEOqcPMmw9N_ms9zd-RNMUbPwk2MLTWC3tlyUyJD34E)
 
 # 💫 About Me:
 👋 Hello! I'm Julio, a passionate 22-year-old software developer with a strong foundation in HTML, CSS, JavaScript, Java, React, Node, and Express.
