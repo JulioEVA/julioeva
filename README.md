@@ -3,7 +3,7 @@
 # 💫 About Me:
 👋 Hello! I'm Julio, a passionate 22-year-old software developer with a strong foundation in HTML, CSS, JavaScript, Java, React, Node, and Express.
 
-📚 Currently in my 6th semester of Software Engineering at ITSON, I am dedicated to expanding my knowledge and skills in the dynamic field of software development. Complementing my academic journey, I have recently completed a comprehensive web development course where I delved into various aspects of the craft.
+📚I am dedicated to expanding my knowledge and skills in the dynamic field of software development. Complementing my academic journey, I have recently completed a comprehensive web development course where I delved into various aspects of the craft.
 
 🛠️ Throughout the course, I embarked on diverse personal projects, showcasing my ability to bring ideas to life. Notably, my projects are hosted on different platforms, demonstrating my proficiency in deploying and managing web applications.
 
